@@ -32,11 +32,11 @@ body{padding-top:75px;}
     width: 100%;
  }
 .blue_to_red {
-    -webkit-animation: blue_to_red_color_change 1s infinite alternate;
-	-moz-animation: blue_to_red_color_change 1s infinite alternate;
-	-ms-animation: blue_to_red_color_change 1s infinite alternate;
-	-o-animation: blue_to_red_color_change 1s infinite alternate;
-	animation: blue_to_red_color_change 1s infinite alternate;
+    -webkit-animation: blue_to_red_color_change 5s infinite alternate;
+	-moz-animation: blue_to_red_color_change 5s infinite alternate;
+	-ms-animation: blue_to_red_color_change 5s infinite alternate;
+	-o-animation: blue_to_red_color_change 5s infinite alternate;
+	animation: blue_to_red_color_change 5s infinite alternate;
 }
 
 @-webkit-keyframes blue_to_red_color_change {
@@ -60,11 +60,11 @@ body{padding-top:75px;}
 	to { color: var(--red); }
 }
 .indigo_to_pink {
-    -webkit-animation: indigo_to_pink_color_change 1s infinite alternate;
-	-moz-animation: indigo_to_pink_color_change 1s infinite alternate;
-	-ms-animation: indigo_to_pink_color_change 1s infinite alternate;
-	-o-animation: indigo_to_pink_color_change 1s infinite alternate;
-	animation: indigo_to_pink_color_change 1s infinite alternate;
+    -webkit-animation: indigo_to_pink_color_change 5s infinite alternate;
+	-moz-animation: indigo_to_pink_color_change 5s infinite alternate;
+	-ms-animation: indigo_to_pink_color_change 5s infinite alternate;
+	-o-animation: indigo_to_pink_color_change 5s infinite alternate;
+	animation: indigo_to_pink_color_change 5s infinite alternate;
 }
 
 @-webkit-keyframes indigo_to_pink_color_change {
@@ -88,11 +88,11 @@ body{padding-top:75px;}
 	to { color: var(--pink); }
 }
 .green_to_yellow {
-    -webkit-animation: green_to_yellow_color_change 1s infinite alternate;
-	-moz-animation: green_to_yellow_color_change 1s infinite alternate;
-	-ms-animation: green_to_yellow_color_change 1s infinite alternate;
-	-o-animation: green_to_yellow_color_change 1s infinite alternate;
-	animation: green_to_yellow_color_change 1s infinite alternate;
+    -webkit-animation: green_to_yellow_color_change 5s infinite alternate;
+	-moz-animation: green_to_yellow_color_change 5s infinite alternate;
+	-ms-animation: green_to_yellow_color_change 5s infinite alternate;
+	-o-animation: green_to_yellow_color_change 5s infinite alternate;
+	animation: green_to_yellow_color_change 5s infinite alternate;
 }
 
 @-webkit-keyframes green_to_yellow_color_change {
@@ -116,11 +116,11 @@ body{padding-top:75px;}
 	to { color: var(--yellow); }
 }
 .light_to_dark {
-    -webkit-animation: light_to_dark_color_change 1s infinite alternate;
-	-moz-animation: light_to_dark_color_change 1s infinite alternate;
-	-ms-animation: light_to_dark_color_change 1s infinite alternate;
-	-o-animation: light_to_dark_color_change 1s infinite alternate;
-	animation: light_to_dark_color_change 1s infinite alternate;
+    -webkit-animation: light_to_dark_color_change 5s infinite alternate;
+	-moz-animation: light_to_dark_color_change 5s infinite alternate;
+	-ms-animation: light_to_dark_color_change 5s infinite alternate;
+	-o-animation: light_to_dark_color_change 5s infinite alternate;
+	animation: light_to_dark_color_change 5s infinite alternate;
 }
 
 @-webkit-keyframes light_to_dark_color_change {
@@ -144,11 +144,11 @@ body{padding-top:75px;}
 	to { color: var(--dark); }
 }
 .enchanted_glow {
-    -webkit-animation: enchanted_glow_color_change 1s infinite alternate;
-	-moz-animation: enchanted_glow_color_change 1s infinite alternate;
-	-ms-animation: enchanted_glow_color_change 1s infinite alternate;
-	-o-animation: enchanted_glow_color_change 1s infinite alternate;
-	animation: enchanted_glow_color_change 1s infinite alternate;
+    -webkit-animation: enchanted_glow_color_change 5s infinite alternate;
+	-moz-animation: enchanted_glow_color_change 5s infinite alternate;
+	-ms-animation: enchanted_glow_color_change 5s infinite alternate;
+	-o-animation: enchanted_glow_color_change 5s infinite alternate;
+	animation: enchanted_glow_color_change 5s infinite alternate;
 }
 @-webkit-keyframes enchanted_glow_color_change {
 	from {  }
