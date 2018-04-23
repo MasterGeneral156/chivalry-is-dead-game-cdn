@@ -170,3 +170,16 @@ body{padding-top:75px;}
 	from { }
 	to { color: var(--orange); }
 }
+@-moz-keyframes spinner {
+    to { -moz-transform: rotate(359deg); }
+}
+@-webkit-keyframes spinner {
+    to { -webkit-transform: rotate(359deg); }
+}
+@keyframes spinner {
+    to {transform:rotate(359deg);}
+}
+
+.spinner {
+    animation: spin 1000ms linear infinite;
+}
