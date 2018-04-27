@@ -20,7 +20,7 @@ div.quotetop{border:1px;border-style:solid;font-weight:bold;border-color:gray;co
 .hidden-xs-up, .hidden-sm-up, .hidden-md-up, .hidden-lg-up, .hidden-xl-up,
 .hidden-unless-xs, .hidden-unless-sm, .hidden-unless-md, .hidden-unless-lg{display:none !important;}
 }
-body{padding-top:75px;}
+body{padding-top:95px;}
 
 .progress {
     position: relative;
