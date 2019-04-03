@@ -18,7 +18,7 @@
   --info: #00529B;
   --warning: #9F6000;
   --danger: #D8000C;
-  --light: #f8f9fa;
+  --light: rgba(255, 255, 255, 0.1);
   --dark: #343a40;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
